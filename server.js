@@ -39,6 +39,7 @@ app.use(passport.initialize());
 app.use(passport.session());
 
 // I wish I could die, everything is downhill for me 🙁, I am writing this here cuz I don't know anyone to vent to, and writing it here kinda makes feel good 
+// Hey what's wrong? :< 
 
 
 const mongoose = require("mongoose");
